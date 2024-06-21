@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Social Media Username Checker by Pedro M.</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:;">
+</head>
+<body>
+    <div class="scroll-container">
+        <div class="scroll-content">
+            <div id="socialUsernameChecker">
+                <h1 class="glitchy-text">Username Search</h1>
+                <input type="text" id="usernameInput" placeholder="Enter username">
+                <button id="checkUsernameButton">Check</button>
+                <button id="saveResultsButton">Save Results</button>
+                <button id="clearResultsButton">Clear Results</button>
+                <div id="statusMessage"></div>
+                <div id="results"></div>
+            </div>
+            <div id="manualSearch">
+                <h1 class="glitchy-text">Manual Search</h1>
+                <input type="text" id="websiteInput" placeholder="Enter website">
+                <input type="text" id="manualUsernameInput" placeholder="Enter username">
+                <button id="manualSearchButton">Search</button>
+                <div id="manualResults"></div>
+            </div>
+        </div>
+    </div>
+    <script src="renderer.js"></script>
+</body>
+</html>

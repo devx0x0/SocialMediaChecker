@@ -1,0 +1,38 @@
+{
+  "name": "SocialMediaChecker",
+  "version": "1.0.0",
+  "description": "Social Media Username Checker by Pedro M.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "author": "Pedro M.",
+  "license": "MIT",
+  "dependencies": {
+    "python-shell": "^3.0.0"
+  },
+  "devDependencies": {
+    "electron": "^31.0.2",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.pedrom.socialmediachecker",
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "renderer.js",
+      "style.css",
+      "index.html",
+      "splash.html",
+      "icon.png",
+      "username_checker.py",
+      "node_modules/**/*"
+    ]
+  }
+}
