@@ -1,5 +1,7 @@
 # SocialMediaChecker
 
+SocialMediaChecker is a Node.js application designed to help users search for usernames across 100+ websites. It provides results indicating whether a username is taken or available and offers direct links to view specific profiles.
+
 
 
 ![Screenshot of SocialMediaChecker](screenshot.png)
