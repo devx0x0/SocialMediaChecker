@@ -4,6 +4,7 @@
 ## Screenshot
 
 ![Screenshot of SocialMediaChecker](screenshot.png)
+![Screenshot of SocialMediaChecker](screenshot2.png)
 
 
 How to Download and Install SocialMediaChecker
