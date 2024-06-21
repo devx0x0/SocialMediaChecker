@@ -7,13 +7,13 @@
 ![Screenshot of SocialMediaChecker](screenshot3.png)
 
 
-How to Download and Install SocialMediaChecker
+How to Download and Install
 Step 1: Clone the Repository
 
 
 Clone the Repository:
 Click on the green Code button.
-Copy the repository URL (e.g., https://github.com/devx0x0/SocialMediaChecker.git).
+Copy the repository URL (https://github.com/devx0x0/SocialMediaChecker.git)
 
 
 Open Terminal or Command Prompt:
