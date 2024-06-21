@@ -1,0 +1,33 @@
+ECHO is on.
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Electron build output
+dist/
+out/
+
+# Compiled binary addons
+build/
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
