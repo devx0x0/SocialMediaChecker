@@ -1,6 +1,11 @@
 # SocialMediaChecker
 
 
+## Screenshot
+
+![Screenshot of SocialMediaChecker](screenshot.png)
+
+
 How to Download and Install SocialMediaChecker
 Step 1: Clone the Repository
 
