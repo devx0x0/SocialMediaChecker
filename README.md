@@ -18,10 +18,10 @@ Solana: 7Xv3zsaRdqnRjFB4WXWWViq69dpt2b4aDw3TF2oHKpJ3
 ![Screenshot of SocialMediaChecker](screenshot3.png)
 
 
-How to Download and Install
+# How to Download and Install
 
 
-Step 1: Clone the Repository
+# Step 1: Clone the Repository
 
 
 Clone the Repository:
@@ -38,32 +38,32 @@ Run the following command to clone the repository to your local machine:
 git clone https://github.com/devx0x0/SocialMediaChecker.git
 
 
-Step 2: Navigate to the Project Directory
+# Step 2: Navigate to the Project Directory
 Change Directory:
 Navigate to the cloned repository directory:
 cd SocialMediaChecker
 
 
-Step 3: Install Node.js and npm
+# Step 3: Install Node.js and npm
 Install Node.js and npm:
 Ensure you have Node.js and npm installed. You can download them from nodejs.org.
 
 
-Step 4: Install Project Dependencies
+# Step 4: Install Project Dependencies
 Install Dependencies:
 Run the following command to install all necessary dependencies:
 npm install
 This command will install all the required node_modules specified in the package.json file.
 
 
-Step 5: Run the Application
+# Step 5: Run the Application
 Start the Application:
 Run the following command to start the application:
 npm start
 
 
 
-Summary
+# Summary
 Clone the repository from GitHub.
 
 Navigate to the project directory.
@@ -76,7 +76,11 @@ Run the application using npm start.
 
 By following these steps, you can successfully download, install, and set up the SocialMediaChecker application on your local machine.
 
-Additional Information
+
+# Additional Information
+
 Dependencies: This project uses various Node.js packages listed in the package.json file. Make sure to review this file for any specific package requirements.
 Contributing: If you wish to contribute to this project, please fork the repository, create a new branch, make your changes, and submit a pull request.
-Issues: If you encounter any issues or have any questions, please open an issue on the GitHub repository.
+
+
+# Issues: If you encounter any issues or have any questions, please open an issue on the GitHub repository.
